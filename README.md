@@ -1,9 +1,9 @@
 # 1000php
-1000个PHP代码审计案例 (2016.7以前乌云公开漏洞)
+1000 cases of PHP code audit (Wooyun public vulnerabilities before July 2016)
 
-说明
+Description
 ---
-* 数据取自3.8W乌云已公开漏洞(截至2016.7)
-* 漏洞在`./bugs`,`./upload`保存了相关漏洞的图片资源
-* 使用特征匹配提取,杂质在5%以内,如遇其他非php漏洞自行删除即可
-* 愿乌云早日回归
+* Data extracted from 38,000 Wooyun publicly disclosed vulnerabilities (up to July 2016).
+* Vulnerabilities are saved in `./bugs` and `./upload` along with related image resources.
+* Extraction based on specific characteristics with impurities within 5%. Non-PHP vulnerabilities encountered should be removed.
+* Hope for the return of Wooyun soon.
